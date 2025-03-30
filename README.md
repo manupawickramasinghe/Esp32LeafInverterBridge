@@ -17,3 +17,5 @@ Not tested
 3. hardware power supply from 12v not tested yet 
 4. Upload using jumpers on the PCB ( to be tested and verified )
 
+
+https://docs.google.com/presentation/d/1tVNdFFkDKgH11Tu8PEALcjEXmB1ssmy29CsI_P0dAhI/edit?usp=sharing
